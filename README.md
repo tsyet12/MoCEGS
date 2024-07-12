@@ -1,5 +1,17 @@
 # MoCEGS Project Code
 
+Repository accompanies the manuscript:
+
+Uncovering the Energy Infrastructure in Europe: Digital Twin Optimization and Interpretation via Multi-Way Analysis
+
+Sin Yong Tenga*, Ákos Oroszb, Jean Pimentelc, Jeroen J. Jansena,*, Ferenc Friedlerc*,
+
+aRadboud University, Institute for Molecules and Materials, P.O. Box 9010, 6500 GL Nijmegen, the Netherlands 
+bUniversity of Pannonia, Egyetem u. 10, 8200, Veszprém, Hungary
+cSzéchenyi István University (University of Győr), Egyetem tér 1, 9026, Győr, Hungary
+
+
+
 # Instructions to Run Software
 
 1. Install all Python dependencies
