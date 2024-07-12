@@ -4,11 +4,11 @@ Repository accompanies the manuscript:
 
 Uncovering the Energy Infrastructure in Europe: Digital Twin Optimization and Interpretation via Multi-Way Analysis
 
-Sin Yong Tenga*, Ákos Oroszb, Jean Pimentelc, Jeroen J. Jansena,*, Ferenc Friedlerc*,
+Sin Yong Teng<sup>a*</sup>, Ákos Orosz<sup>b</sup>, Jean Pimentel<sup>c</sup>, Jeroen J. Jansen<sup>a</sup>, Ferenc Friedler<sup>c</sup>,
 
-aRadboud University, Institute for Molecules and Materials, P.O. Box 9010, 6500 GL Nijmegen, the Netherlands 
-bUniversity of Pannonia, Egyetem u. 10, 8200, Veszprém, Hungary
-cSzéchenyi István University (University of Győr), Egyetem tér 1, 9026, Győr, Hungary
+<sup>a</sup>Radboud University, Institute for Molecules and Materials, P.O. Box 9010, 6500 GL Nijmegen, the Netherlands 
+<sup>b</sup>University of Pannonia, Egyetem u. 10, 8200, Veszprém, Hungary
+<sup>c</sup>Széchenyi István University (University of Győr), Egyetem tér 1, 9026, Győr, Hungary
 
 
 
