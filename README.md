@@ -7,7 +7,9 @@ Uncovering the Energy Infrastructure in Europe: Digital Twin Optimization and In
 Sin Yong Teng<sup>a*</sup>, Ákos Orosz<sup>b</sup>, Jean Pimentel<sup>c</sup>, Jeroen J. Jansen<sup>a</sup>, Ferenc Friedler<sup>c</sup>,
 
 <sup>a</sup>Radboud University, Institute for Molecules and Materials, P.O. Box 9010, 6500 GL Nijmegen, the Netherlands 
+
 <sup>b</sup>University of Pannonia, Egyetem u. 10, 8200, Veszprém, Hungary
+
 <sup>c</sup>Széchenyi István University (University of Győr), Egyetem tér 1, 9026, Győr, Hungary
 
 
