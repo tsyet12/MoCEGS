@@ -2,7 +2,7 @@
 
 Repository accompanies the manuscript:
 
-Uncovering the Energy Infrastructure in Europe: Digital Twin Optimization and Interpretation via Multi-Way Analysis
+Uncovering the Energy Infrastructure in Europe: Dynamic Data Insights for Policy Impact Analysis
 
 Sin Yong Teng<sup>a*</sup>, Ákos Orosz<sup>b</sup>, Jean Pimentel<sup>c</sup>, Jeroen J. Jansen<sup>a</sup>, Ferenc Friedler<sup>c</sup>,
 
