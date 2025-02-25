@@ -34,6 +34,29 @@ Sin Yong Teng<sup>a*</sup>, Ákos Orosz<sup>b</sup>, Jean Pimentel<sup>c</sup>, 
 
 
 
+# Other Model Information
+
+| Property            | Details |
+|---------------------|---------|
+| **Model Name**      | Macro-level Power Model for European Countries and Neighbouring Countries |
+| **Overview**        | The model automatically collects the most updated data from ENTSO-E via API. This model treats every single substation as model nodes, and every 30 minutes as a single timeslice. A Pareto front is then generated for the optimal network (usually for a year) to analyse the trade-off of costs and sustainability factor for the region. Multiple policy scenario is also provided. |
+| **Purpose**        | To analyse policy, trade-offs and optimality of power within the European Region (including neighbouring countries), with substation resolution and 30-minute frequency. |
+| **Intended Domain** | Power management, optimization, and infrastructure of the European Union, European region, or neighbouring countries. |
+| **Training Data**   | Directly queried in real-time from ENTSOE API in 30-min frequency for the intended period (default= 1 Jan 2023 to 31 Dec 2023). Temporarily missing data are being interpolated linearly. |
+| **Model Information** | [Details about the model architecture, parameters, and key components] |
+| **Inputs and Outputs** | Input: Real-time power price, loads, generation (by source). Back-up power prices when real-time prices are unavailable, environmental factors for power generation, network topology, policy scenario, and trade-off factors. Output: Optimal network generation and power transfer for every time slice based on policy scenario. Environmental factors and costs factor for the European region |
+| **Performance Metrics** | Environmental factor and cost factor for the overall region |
+| **Bias**           | ENTSOE API is the most complete database available for the European region, however,r there might be some missing data that is still possible. |
+| **Robustness**     | The model performs well under the assumption that the data is accurate. Optimality is achieved for all cases, providing robustness for the solution. Our model also can allow N-best solution, where other near-optimal solutions can be also generated (if there is interest). |
+| **Domain Shift**   | The model can be used for other domains provided that there is a high frequency of price, loads and generation that acts in a complex network. Possible domains include hydrogen network, heat network, etc. |
+| **Test Data**      | Test data is not relevant for this model |
+| **Optimal Conditions** | The model performs well when there are no missing data that is queried and all substations of study are included. |
+| **Poor Conditions** | The model performs poorly when there are large amounts of missing data and there are changes in substations in the duration of study |
+| **Explanation**    | The model is functioning based on a data-driven multiple-time slice P-graph model that is automatically constructed based on the historical connectivity of power within the region. |
+| **Contact Information** | For any inquiries, contact Sin Yong Teng. Details below. |
+
+
+
 Contact:
 Sin Yong Teng 
 Radboud University Nijmegen
