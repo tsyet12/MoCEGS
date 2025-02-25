@@ -1,5 +1,8 @@
 # MoCEGS Project Code: High-resolution Large-scale Power Network Model as a Digital Twin for the European Region
 
+[![DOI](https://zenodo.org/badge/827989164.svg)](https://doi.org/10.5281/zenodo.14922201)
+
+
 Repository accompanies the manuscript:
 
 Uncovering the Energy Infrastructure in Europe: Dynamic Data Insights for Policy Impact Analysis
