@@ -26,6 +26,10 @@ Sin Yong Teng<sup>a*</sup>, Ákos Orosz<sup>b</sup>, Jean Pimentel<sup>c</sup>, 
 5. Results are generated as zipped files.
 
 
+# Important pre-requisites/libraries
+
+This model relies on our previous Pgraph library (official PyPi library): https://github.com/tsyet12/Pgraph
+You may install it in this manner: pip install ProcessGraph
 
 
 # Notes for understanding
