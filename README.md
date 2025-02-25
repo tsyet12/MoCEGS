@@ -1,4 +1,4 @@
-# MoCEGS Project Code
+# MoCEGS Project Code: High-resolution Large-scale Power Network Model as a Digital Twin for the European Region
 
 Repository accompanies the manuscript:
 
